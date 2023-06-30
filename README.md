@@ -1,2 +1,2 @@
 # Bonjour💻💾📀⌨
-An open source java-based application for portable flash drives.....
+An open source java-based application to ease the developer experience setup.
